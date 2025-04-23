@@ -215,6 +215,11 @@
     "title": "Draw the Hill"
   },
   {
+    "link": "projects/drifthunters/index.html",
+    "imgSrc": "projects/drifthunters/icons/drift-hunters.png",
+    "title": "Drifthunters"
+  },
+  {
     "link": "projects/ducklife1/index.html",
     "imgSrc": "projects/ducklife1/ducklife.png",
     "title": "Duck Life"
